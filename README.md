@@ -19,8 +19,9 @@ Based on the analysis of the road accident data, the following key insights were
 - _The total number of casualties for the year 2021 is **222,146**, while year 2022 is **195,737**_
 - _**November 2021** had the highest number of casualties, while February 2021 had the lowest_. _Similarly, **November 2022** had the highest number of casualties, and January 2022 had the lowest_
 
-You can preview the Road Accident Analysis dashboard [here](<a href="https://ibb.co/MRM1z0s"><img src="https://i.ibb.co/gDzW0K3/DASHBORD.png" alt="DASHBORD" border="0"></a>) to gain further insights into the road accident analytics.
+You can preview the Road Accident Analysis dashboard to gain further insights into the road accident analytics.
 
+![](<a href="https://ibb.co/MRM1z0s"><img src="https://i.ibb.co/gDzW0K3/DASHBORD.png" alt="DASHBORD" border="0"></a>)
 ## CONCLUSION/RECOMMENDATION
 The number of car accidents increases every November according to the trend in both year 2021 and 2022. All these insights provides a broad understanding of the road accident data and can be used to inform decision-making and implement strategies for improving road safety. 
 
