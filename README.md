@@ -11,7 +11,7 @@ Road accidents are one among the world's leading causes of disabilities and fata
 - Data Visualization
 ## KEY PERFORMANCE INDICATORS/OTHER FACTORS
 ![](Data_Analysis_Sheet.PNG)
-### KEY INSIGHTS
+### OBSERVATIONS
 Based on the analysis of the road accident data, the following key insights were obtained:
 
 - _Total number of casualties is **417,883**_
